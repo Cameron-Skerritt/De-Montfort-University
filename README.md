@@ -11,6 +11,6 @@ Includes other smaller projects which I made during my labs.
 - Rock Paper Scissors
 - Time Conversion
 
-  # Year 2
-  - Mathmatical Operations
-  - (SOON TO BE ADDED) - Python War Game
+# Year 2
+- Mathmatical Operations
+- (SOON TO BE ADDED) - Python War Game
