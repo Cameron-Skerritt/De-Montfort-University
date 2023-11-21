@@ -16,3 +16,5 @@ Additionally, we do not ask for their ask to ensure they can use the app.
 
 With these consideraitons in mind, the script I made improved upon this, however, I could not make my own database due to time constraints.
 So, with this in mind, this is an adapatation of what the code would act like if it was linked to a database.
+
+To solve these issues, I made Secure_Script.py, this encompases all the concerns and fixes them accordingly.
