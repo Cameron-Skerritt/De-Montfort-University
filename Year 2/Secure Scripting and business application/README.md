@@ -9,6 +9,7 @@ In this script, the main vulnerability is that we pass raw "SQL", this is troubl
 
 # Script 3
 ![image](https://github.com/Cameron-Skerritt/University-Projects/assets/122690042/0315d3ee-3252-4eab-81b4-129606572fca)
+
 In this script, we break GDPR regulations by not prompting the user to agree / disagree with the terms & conditions.
 Additionally, we do not ask for their ask to ensure they can use the app.
 
