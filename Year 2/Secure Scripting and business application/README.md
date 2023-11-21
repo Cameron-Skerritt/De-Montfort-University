@@ -5,7 +5,6 @@ Below is an example of the insecure code I had to improve.
 
 # Script 1
 ![image](https://github.com/Cameron-Skerritt/University-Projects/assets/122690042/1d6bd4c0-dd74-4ca5-8591-a25cdfdf6916)
-
 In this script, the main vulnerability is that we pass raw "SQL", this is troublesome as attackers could inject their own malicious sql code.
 
 # Script 3
