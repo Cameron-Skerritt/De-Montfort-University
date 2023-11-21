@@ -10,4 +10,5 @@ This repo contains a list of coding projects which I have created during my time
 
 # Year 2
 - Mathmatical Operations
-- (SOON TO BE ADDED) - Python War Game
+- (SOON TO BE ADDED) - Python War Game - Module 1
+- Secure login - Module 1
