@@ -18,3 +18,15 @@ With these consideraitons in mind, the script I made improved upon this, however
 So, with this in mind, this is an adapatation of what the code would act like if it was linked to a database.
 
 To solve these issues, I made Secure_Script.py, this encompases all the concerns and fixes them accordingly.
+
+# Python War Game
+This game was created as an assignment based on a brief which had criteria that I had to hit.
+The criteria asked for:
+- Player Names
+- Round Limit
+- Score Keeping
+- Special Cards
+- Save & Load feature
+- Challenge: Custom rules or feature
+
+This program took over a week to code & debug, I eventually got it working, the hardest part was coding the "war" function (when two players draw the same cards). That function took me around 3~ days to make it fully work. 
